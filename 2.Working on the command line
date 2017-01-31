@@ -1,1 +1,70 @@
+1.WORKING ON THE COMMAND LINE :
+
+access terminals
+identified connected terminal
+bash history
+
+
+INTRODUCTION TO PHYSICAL CONSOLES :
+
+   1.physical consoles ;
+
+normally tty1 - tty6
+ctrl + alt +fx or chvt command
+graphycal control is normally tty7
+use this application gnome-terminal to access CLI
+
+CONNECTING TO CONSOLES WHILST ON THE SERVER :
+
+TTY IS THE COMMAND TO DISPALY WHICH PORT IS USING
+IF WE WANT TO CHANGE TTY1 TO TTY2 WE HAVE TO TODO
+TTY 2
+LOGIN :
+PWD :
+TTY2 WILL DISPALY
+WHO
+HERE IT SHOWS ALL THE TTY 'S AND WHO ARE USING IT
+
+ identify your terminal :
+* from any terminal use tty to display terminal device
+* the command who will dispaly all users and their terminals
+
+
+
+   2.pseudo consoles :
+   
+   * the most common type of connection    /dec/pts/x
+   * represent remote connections via ssh or telnet
+   
+    identify your terminal :
+   * if using ssh the variables $ssh_will help
+   
+   ssh or telnet :
+   
+    3.telnet :
+    
+   ssh ---1.encrypted 
+          2.port 22
+          3.third party s/w(putty)
+          
+    
+   4.telnet :
+   
+   telnet ---1.uncrypted
+             2.port 23
+             3.included s/w
+   
+  
+   5.shells :
+   
+* bash is not only the shell
+*try the command chsh -l to list avilable shells
+* your default shell is configured in /etc/pass
+
+using the ZSH on linux :
+
+
+   
+   6.history
+   
 
