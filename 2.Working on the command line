@@ -67,4 +67,13 @@ using the ZSH on linux :
    
    6.history
    
+   bash history :
+   
+   * maintains command history for each user .bash_history
+   * !v will run the last command starting with v
+   * !$ represent the last argument
+   * mkdir dir1 ; cd!$
+   * !?etc excutes the last command that contains etc anywhere
+   * ctrl + r reverse searches for your input
+   
 
