@@ -1,2 +1,50 @@
 1.introducing linux command line interface fundamentals :
 
+
+
+1.WORKING ON THE COMMAND LINE :
+
+access terminals
+identified connected terminal
+bash history
+
+
+2.ANALYZE TEXT FILES :
+
+heads and tails
+more or less
+cat or tac
+
+
+3.BASIC FILE MANAGEMENT :
+
+copy, move and delete
+listing files
+zipping itall up
+
+
+4.COMMAND LINESTREAMS AND PIPES :
+
+input and output
+named and unnamed pipes
+append and override
+
+
+5.CREATE , KILL AND MONITOR PROCESS :
+
+procps pacckages
+back grounding 
+ps, pgrep and pkill
+
+
+6.SEARCH FILES USING REGULAR EXPRESSIONS :
+
+learn pcre
+$ ? *
+comic book profanties
+
+7.USING VI TO EDIT FILES FROM CLI :
+
+.vimrc
+key mapping
+expertise
