@@ -1,1 +1,30 @@
+analyze text files :
+
+cat
+head
+tail
+
+
+There are many ways to read files in linux :
+
+cut
+less
+sort
+
+fit for purpose 
+
+head : display top n lines
+tail : display bottom n lines
+sort : organize data in coloumns
+cut  : display certain columns
+less : page through the file
+knowing : the tool to leave unused
+
+
+CAT AND TAC :
+
+* cat command is used to view the textfile.
+* tac !? command is used to view the file in reverse order
+* cat -vet filename is used to view hidden words in the file
+
 
