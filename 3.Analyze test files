@@ -32,3 +32,33 @@ CAT AND TAC :
 USE CAT TO VIEW LINUX RUN TIME CONFIGURATION :::
 
 
+using head and tail :
+
+head : to view first 10 lins of data in a file
+tail :to view last 10 lines of data in a file
+tail -n1 :
+head -n:
+tail -f : to open a log file
+
+
+paging data with more and less :::
+
+using more and less :
+more : the program more has been used to page through longer files.
+less : the program less is so named as : less is "more"
+less can page up and down through files and we can search for text in the file
+
+examples :
+
+using cut to vertcally filter data :::
+
+using cut and sort :
+
+
+the command cut can be used to display only  certain fields with in a file 
+* we can use the option -d to specify the field delimiter
+* we can use the program sort to order columns as desired
+
+
+
+
