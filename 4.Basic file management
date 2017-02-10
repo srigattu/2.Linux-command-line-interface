@@ -1,1 +1,14 @@
 
+toolbox :
+
+cp = copy
+mv = move and rename
+rm = delete
+ls = list
+dd = image
+rsync = keep in sync
+tar = archive
+find = search
+
+cp is for copy and mv is for move :
+
